@@ -1,0 +1,323 @@
+Villanova(1) scored 72.53101019999998
+Mt St Marys(16) scored 63.2422605
+Winner: Villanova
+Wisconsin(8) scored 68.672594375
+VA Tech(9) scored 70.64064315
+Winner: VA Tech
+Virginia(5) scored 66.64025095
+NC-Wilmgton(12) scored 68.9859584
+Winner: NC-Wilmgton
+Florida(4) scored 71.4755198
+E Tenn St(13) scored 69.7333015
+Winner: E Tenn St
+S Methodist(6) scored 70.7513472
+USC(11) scored 70.51843575
+Winner: USC
+Baylor(3) scored 69.56653715
+New Mexico(14) scored 67.6210623
+Winner: New Mexico
+S Carolina(7) scored 73.81430279999998
+Marquette(10) scored 69.50791199999998
+Winner: Marquette
+Duke(2) scored 79.61153979999999
+Troy(15) scored 67.3108072
+Winner: Duke
+Gonzaga(1) scored 78.9347823
+S Dakota St(16) scored 68.30571
+Winner: Gonzaga
+Northwestern(8) scored 69.17132782499999
+Vanderbilt(9) scored 65.61892005
+Winner: Northwestern
+Notre Dame(5) scored 69.9433056
+Princeton(12) scored 67.35350879999999
+Winner: Notre Dame
+W Virginia(4) scored 72.8648297
+Bucknell(13) scored 71.0034523
+Winner: W Virginia
+Maryland(6) scored 72.55237724999999
+Xavier(11) scored 70.328067
+Winner: Maryland
+Florida St(3) scored 73.8714548
+Fla Gulf Cst(14) scored 69.93980499999999
+Winner: Florida St
+St Marys(7) scored 68.1965284
+VCU(10) scored 64.95079114999999
+Winner: VCU
+Arizona(2) scored 76.093578
+North Dakota(15) scored 66.89772855
+Winner: Arizona
+Kansas(1) scored 76.35403995000001
+UC Davis(16) scored 67.82384462500002
+Winner: Kansas
+Miami (FL)(8) scored 67.82047720000001
+Michigan St(9) scored 64.4083653
+Winner: Michigan St
+Iowa State(5) scored 73.2227793
+UNLV(12) scored 74.966451375
+Winner: UNLV
+Purdue(4) scored 68.62748062499999
+Vermont(13) scored 70.31778312499999
+Winner: Vermont
+Creighton(6) scored 72.8933763
+Rhode Island(11) scored 69.2333124
+Winner: Rhode Island
+Oregon(3) scored 77.54368785000001
+Iona(14) scored 68.99423535000001
+Winner: Oregon
+Michigan(7) scored 74.93128350000002
+Oklahoma St(10) scored 72.7803462
+Winner: Oklahoma St
+Louisville(2) scored 71.14627290000001
+Jacksonville(15) scored 65.35127700000001
+Winner: Louisville
+N Carolina(1) scored 75.17078359999998
+TX Southern(16) scored 72.5103204
+Winner: N Carolina
+Arkansas(8) scored 73.60486695
+Seton Hall(9) scored 71.14385385
+Winner: Seton Hall
+Minnesota(5) scored 69.2757198
+Middle Tenn(12) scored 67.55812019999999
+Winner: Middle Tenn
+Butler(4) scored 73.41721975
+Winthrop(13) scored 70.048622
+Winner: Butler
+Cincinnati(6) scored 69.680014425
+Kansas St(11) scored 63.53362797499999
+Winner: Cincinnati
+UCLA(3) scored 79.52553945
+Kent State(14) scored 71.79273780000001
+Winner: UCLA
+Dayton(7) scored 70.150591875
+Wichita St(10) scored 73.56947324999999
+Winner: Wichita St
+Kentucky(2) scored 75.83244525
+N Kentucky(15) scored 72.22547349999999
+Winner: N Kentucky
+Villanova(1) scored 73.11705869999999
+VA Tech(9) scored 70.46173259999999
+Winner: Villanova
+NC-Wilmgton(12) scored 76.7100078
+E Tenn St(13) scored 72.57184910000001
+Winner: E Tenn St
+USC(11) scored 73.9430529
+New Mexico(14) scored 70.73384159999999
+Winner: USC
+Marquette(10) scored 70.9353841
+Duke(2) scored 80.2886854
+Winner: Duke
+Gonzaga(1) scored 72.68402400000001
+Northwestern(8) scored 67.143552
+Winner: Gonzaga
+Notre Dame(5) scored 73.2455755
+W Virginia(4) scored 70.615905525
+Winner: Notre Dame
+Maryland(6) scored 72.90580410000001
+Florida St(3) scored 72.615323475
+Winner: Florida St
+VCU(10) scored 67.4460292
+Arizona(2) scored 72.33359429999999
+Winner: Arizona
+Kansas(1) scored 77.1186192
+Michigan St(9) scored 67.1296431
+Winner: Kansas
+UNLV(12) scored 71.389314875
+Vermont(13) scored 70.87467690000001
+Winner: UNLV
+Rhode Island(11) scored 65.62500539999999
+Oregon(3) scored 72.45128459999998
+Winner: Oregon
+Oklahoma St(10) scored 71.914425
+Louisville(2) scored 77.09044062500001
+Winner: Louisville
+N Carolina(1) scored 72.6898291
+Seton Hall(9) scored 72.45473689999999
+Winner: N Carolina
+Middle Tenn(12) scored 67.66388859999999
+Butler(4) scored 68.81719600000001
+Winner: Butler
+Cincinnati(6) scored 73.21413975
+UCLA(3) scored 73.16653785
+Winner: UCLA
+Wichita St(10) scored 72.85364450000002
+N Kentucky(15) scored 71.24271700000001
+Winner: Wichita St
+Villanova(1) scored 74.08140835
+E Tenn St(13) scored 65.92484800000001
+Winner: Villanova
+USC(11) scored 73.01278442499999
+Duke(2) scored 73.71563885
+Winner: Duke
+Gonzaga(1) scored 74.52128775
+Notre Dame(5) scored 70.87547512499998
+Winner: Notre Dame
+Florida St(3) scored 70.603658325
+Arizona(2) scored 73.6051727
+Winner: Arizona
+Kansas(1) scored 78.2890032
+UNLV(12) scored 72.77824919999999
+Winner: Kansas
+Oregon(3) scored 71.46608599999999
+Louisville(2) scored 69.1210525
+Winner: Louisville
+N Carolina(1) scored 74.37003859999999
+Butler(4) scored 71.45908119999999
+Winner: N Carolina
+UCLA(3) scored 77.6577714
+Wichita St(10) scored 75.95779859999999
+Winner: Wichita St
+Villanova(1) scored 71.93154799999999
+Duke(2) scored 70.151
+Winner: Villanova
+Notre Dame(5) scored 69.39533342499999
+Arizona(2) scored 72.94317615
+Winner: Arizona
+Kansas(1) scored 76.01467500000001
+Louisville(2) scored 70.018196875
+Winner: Kansas
+N Carolina(1) scored 75.3074091
+Wichita St(10) scored 73.27123649999999
+Winner: Wichita St
+Villanova(1) scored 69.1953246
+Arizona(2) scored 69.1981604
+Winner: Arizona
+Kansas(1) scored 77.476302
+Wichita St(10) scored 71.1049365
+Winner: Kansas
+Arizona(2) scored 71.9952844
+Kansas(1) scored 73.843536
+Winner: Kansas
+***Round 1***
+Villanova
+Mt St Marys
+Wisconsin
+VA Tech
+Virginia
+NC-Wilmgton
+Florida
+E Tenn St
+S Methodist
+USC
+Baylor
+New Mexico
+S Carolina
+Marquette
+Duke
+Troy
+Gonzaga
+S Dakota St
+Northwestern
+Vanderbilt
+Notre Dame
+Princeton
+W Virginia
+Bucknell
+Maryland
+Xavier
+Florida St
+Fla Gulf Cst
+St Marys
+VCU
+Arizona
+North Dakota
+Kansas
+UC Davis
+Miami (FL)
+Michigan St
+Iowa State
+UNLV
+Purdue
+Vermont
+Creighton
+Rhode Island
+Oregon
+Iona
+Michigan
+Oklahoma St
+Louisville
+Jacksonville
+N Carolina
+TX Southern
+Arkansas
+Seton Hall
+Minnesota
+Middle Tenn
+Butler
+Winthrop
+Cincinnati
+Kansas St
+UCLA
+Kent State
+Dayton
+Wichita St
+Kentucky
+N Kentucky
+***Round 2***
+Villanova
+VA Tech
+NC-Wilmgton
+E Tenn St
+USC
+New Mexico
+Marquette
+Duke
+Gonzaga
+Northwestern
+Notre Dame
+W Virginia
+Maryland
+Florida St
+VCU
+Arizona
+Kansas
+Michigan St
+UNLV
+Vermont
+Rhode Island
+Oregon
+Oklahoma St
+Louisville
+N Carolina
+Seton Hall
+Middle Tenn
+Butler
+Cincinnati
+UCLA
+Wichita St
+N Kentucky
+***Round 3***
+Villanova
+E Tenn St
+USC
+Duke
+Gonzaga
+Notre Dame
+Florida St
+Arizona
+Kansas
+UNLV
+Oregon
+Louisville
+N Carolina
+Butler
+UCLA
+Wichita St
+***Round 4***
+Villanova
+Duke
+Notre Dame
+Arizona
+Kansas
+Louisville
+N Carolina
+Wichita St
+***Round 5***
+Villanova
+Arizona
+Kansas
+Wichita St
+***Round 6***
+Arizona
+Kansas
+***Round 7***
+Kansas

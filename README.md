@@ -9,13 +9,17 @@ All statistics are contained in stats.csv file from kenpom.com.
 
 
 Attribute	Definition
-O	Offense Efficiency
-D	Defense Efficiency
-T	Tempo
-S	Seed Factor
-L	Luck Factor
-R	Round
-H	Likelihood of Winning (by Seed)
+
+O =	Offense Efficiency
+
+D =	Defense Efficiency
+
+T =	Tempo
+
+S =	Seed Factor
+
+L =	Luck Factor
+
 Score	Estimated score of one team for a given game
 
 Score1 = (((O1) * (1 + L1) + (D2) * (1 – L2)) / 200) * (TA) * (S1)

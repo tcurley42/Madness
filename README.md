@@ -16,10 +16,8 @@ D =	Defense Efficiency
 
 T =	Tempo
 
-S =	Seed Factor
-
 L =	Luck Factor
 
 Score	Estimated score of one team for a given game
 
-Score1 = (((O1) * (1 + L1) + (D2) * (1 – L2)) / 200) * (TA) * (S1)
+Score1 = (((O1) * (1 + L1) + (D2) * (1 – L2)) / 200) * (TA)
